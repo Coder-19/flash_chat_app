@@ -1,0 +1,34 @@
+name: flash_chat
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0<3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  # the package below is used to create some text animations
+  animated_text_kit: ^2.3.0
+  # the package below is for the firebase core database 
+  firebase_core: ^0.5.0+1
+  # the package below is for authentication using the firbase
+  firebase_auth: ^0.18.1+2
+  # the package below is for accessing the cloud firestore database of firebase
+  cloud_firestore: ^0.14.1+3
+  # the package below is used for showing a loading indicator to the user to let 
+  # the user know that something is happening when the user is signing in into the chat app
+  modal_progress_hud: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/

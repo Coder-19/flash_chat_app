@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310882973623",
+    "firebase_url": "https://flash-chat-2464c.firebaseio.com",
+    "project_id": "flash-chat-2464c",
+    "storage_bucket": "flash-chat-2464c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310882973623:android:4f1679918935fb701e1a32",
+        "android_client_info": {
+          "package_name": "co.jasmanArora.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310882973623-qhnrq2hke73ofs5610vecbmp77hl5nbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF66Hg_fLGzEQyef8jnZqkCt-FVWwz12I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310882973623-qhnrq2hke73ofs5610vecbmp77hl5nbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
